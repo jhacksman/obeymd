@@ -1,0 +1,28 @@
+[Unit]
+Description=OBEY enrolled synthetic-canary collector
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+DynamicUser=yes
+StateDirectory=obey-canary
+StateDirectoryMode=0700
+WorkingDirectory=/opt/obeymd/collector
+ExecStart=/usr/bin/python3 /opt/obeymd/collector/canary.py serve --public-base https://obey-collector.c4573.org
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ProtectHome=yes
+PrivateDevices=yes
+ProtectKernelTunables=yes
+ProtectControlGroups=yes
+RestrictSUIDSGID=yes
+UMask=0077
+MemoryMax=128M
+TasksMax=64
+
+[Install]
+WantedBy=multi-user.target
