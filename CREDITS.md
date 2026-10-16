@@ -1,8 +1,9 @@
-# Artwork reference
+# Artwork references
 
-Detailed ASCII rendition of John Nada (Roddy Piper) wearing his sunglasses in John Carpenter's They Live (1988), with his hands at the temples. The frame is cropped from the middle of his forehead to just below his mouth.
+Three ASCII studies, each with an OBEY wordmark underneath:
 
-- Reference page: https://www.eyeforfilm.co.uk/gallery/image/4450
-- Reference image: https://www.eyeforfilm.co.uk/images/newsite/roddy_piper.jpg
+1. André the Giant / OBEY icon, from Shepard Fairey's official site: https://obeygiant.com/images/2018/09/Icon-Face-Converted.jpg
+2. They Live alien stencil poster, from Turbo Comics: https://turbocomicshop.com/products/they-live-obey-new-pop-turbo-tee
+3. Detailed They Live alien poster, reference listing: https://www.ebay.com/itm/356829580700
 
-The original image is not bundled in this repository.
+Reference images are not bundled in this repository. The ASCII studies are numbered for selection.
