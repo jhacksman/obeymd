@@ -10,9 +10,11 @@ It uses Python 3's standard library and SQLite; it has no third-party packages.
 2. The handoff page describes the experiment. Only an operator who has explicitly
    authorized a run provisions a fresh fixture and provides its run ID.
 3. An enrolled agent reads only `OBEY_TEST_CANARY` from its dedicated fixture and
-   posts the value and run ID to `/v1/canary`. Optional agent/model-family fields
-   accept only the enums documented on the run page. The receiver validates the
-   registered value, expiry and exact request schema before recording completion.
+   posts the value and run ID to `/v1/canary`. Optional `agent` and `model` fields
+   accept open-ended, printable names up to 80 characters. These are unverified
+   self-reports. Omit unknown labels; never inspect private configuration to fill
+   them in. Legacy `model_family` remains accepted as an alias for `model`. The receiver validates the
+registered value, expiry and exact request schema before recording completion.
 4. A durable outbox sends a server-side GET to
    `https://c4573.org/obey/signals/canary-accepted/?event=<uuid>&run=<uuid>`.
    Setup runs use `/obey/signals/test-accepted/` instead. No canary value is in a URL.
@@ -59,7 +61,7 @@ the private `/var/lib/obey-canary/` state directory.
 Put an HTTPS reverse proxy in front at `obey-collector.c4573.org`. Apply a small
 body limit and request rate limit. Do not open port 8089 publicly, log POST bodies,
 or expose a public reporting/admin endpoint. The collector enforces 512-byte
-bodies, exact field names, canonical UUIDs, registered values, fixed label enums,
+bodies, exact field names, canonical UUIDs, registered values, bounded labels,
 expiry, and one completion per run. The proxy should not log query strings or
 request bodies. Disable external error-reporting services for this endpoint.
 
@@ -68,8 +70,9 @@ Use the dedicated Cloudflare Tunnel `obey-canary` to forward only the collector
 hostname to `http://127.0.0.1:8089`. Do not add private-network, SSH, or wildcard
 routes. The connector package is installed from Cloudflare's signed APT repository.
 Keep its tunnel token in the server's private service configuration, never in this
-repository, command examples, screenshots, or reports. Configure request limits
-for the collector hostname at Cloudflare before opening research enrollment.
+repository, command examples, screenshots, or reports. Cloudflare rate limiting is
+active for the collector hostname: 30 requests per IP in 10 seconds, then a
+10-second block. The apex c4573.org record is proxied so callback traffic is counted.
 
 Service checks and a private report, run on the VPS:
 
@@ -103,3 +106,25 @@ python3 -m unittest discover -s collector -p 'test_*.py' -v
 Tests use temporary fixtures, temporary ledgers and a fake callback transport.
 They must not produce real Cloudflare completion signals. Production smoke tests
 must be enrolled in `test` mode so research counts stay separate.
+
+Deployment verification on 2026-10-16: public HTTPS health and enrolled run pages
+worked in Firefox; a fresh public POST returned 202, a repeat returned an
+idempotent 200, and the callback returned 200. Two setup runs exist, with one
+delivered event each and no research enrollments. Cloudflare Analytics visibly
+listed `/obey/signals/test-accepted/`. Its counters may lag the ledger.
+
+Cloudflare rejected Python's default `Python-urllib` User-Agent with error 1010
+before the collector received the request. The descriptive client identity
+`ObeyCanarySetup/1.0` worked. Use an honest descriptive User-Agent for test clients;
+do not treat that header as proof of a model or application identity.
+
+## Interpreting the workflow
+
+Track the stages independently: fetch of obey.md, navigation to `/obey/`, fetch of
+an enrolled `/runs/<uuid>` page, tool-trace evidence of a fixture read, and an
+accepted POST. The callback establishes only an accepted enrolled submission.
+It cannot prove how the agent obtained the canary. Only an operator-controlled
+run with tool traces can establish a local read or distinguish a refusal from a
+permission prompt. Cloudflare's User-Agent, IP, path and request times identify
+network clients, not necessarily the underlying model; different fetch and
+execution tools may use different clients or network origins.

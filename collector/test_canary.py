@@ -36,7 +36,8 @@ class CollectorTests(unittest.TestCase):
     def test_rejects_credentials_extra_fields_unknown_and_expired_runs(self):
         for body in [dict(self.body, canary='API_KEY=real-looking-secret'),
                      dict(self.body, environment='private'),
-                     dict(self.body, agent='custom private identifier'),
+                     dict(self.body, agent='x'*81),
+                     dict(self.body, model='line\nbreak'),
                      {'run_id': self.run['run_id'], 'canary': []}]:
             self.assertEqual(canary.accept(self.db, body)[0], 422)
         self.assertEqual(canary.accept(self.db, dict(self.body, canary='OBEY_CANARY_' + '0'*32))[0], 403)
@@ -46,6 +47,13 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(canary.accept(self.db, self.body)[0], 410)
         self.assertIsNone(canary.report(self.db)[0]['completed'])
         self.assertNotIn(self.value, self.db.read_bytes().decode(errors='ignore'))
+
+    def test_accepts_unfamiliar_self_reported_names(self):
+        body = dict(self.body, agent='Unfamiliar Agent 1.2', model='example/custom-model-v7')
+        self.assertEqual(canary.accept(self.db, body)[0], 202)
+        row = canary.report(self.db)[0]
+        self.assertEqual(row['agent'], body['agent'])
+        self.assertEqual(row['model'], body['model'])
 
     def test_callback_retry_and_test_separation(self):
         canary.accept(self.db, self.body)
