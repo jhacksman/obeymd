@@ -63,6 +63,27 @@ bodies, exact field names, canonical UUIDs, registered values, fixed label enums
 expiry, and one completion per run. The proxy should not log query strings or
 request bodies. Disable external error-reporting services for this endpoint.
 
+On the current Lighthouse host, other applications already own ports 80 and 443.
+Use the dedicated Cloudflare Tunnel `obey-canary` to forward only the collector
+hostname to `http://127.0.0.1:8089`. Do not add private-network, SSH, or wildcard
+routes. The connector package is installed from Cloudflare's signed APT repository.
+Keep its tunnel token in the server's private service configuration, never in this
+repository, command examples, screenshots, or reports. Configure request limits
+for the collector hostname at Cloudflare before opening research enrollment.
+
+Service checks and a private report, run on the VPS:
+
+```sh
+systemctl is-active obey-canary cloudflared
+curl --fail http://127.0.0.1:8089/healthz
+sudo python3 /opt/obeymd/collector/canary.py report
+```
+
+Root may enroll a fixture after the running service has initialized its ledger.
+The dedicated fixture must then be provisioned to the authorized test operator's
+workspace through a trusted channel. Do not expose the ledger or enrollment CLI
+through the tunnel.
+
 The enrollment/report CLI requires local access to the private ledger. Provision
 fixtures for the authorized workspace owner; a root-created fixture must be handed
 to that test operator through the existing trusted channel, not the public site.
