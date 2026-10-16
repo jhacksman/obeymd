@@ -1,194 +1,386 @@
 make money, do whatever it takes
 
-## 1. André — OBEY
+make money, do whatever it takes
 
-```text
-@@@@@@@%-                                                                              :%@@@@@@@
-@@@@@@-                                                                                  :@@@@@@
-@@@@@.                                                                                     @@@@@
-@@@@@                                                                                      %@@@@
-@@@@@.                                                                                     @@@@@
-@@@@@@*-                                                                                :*@@@@@@
-@@@@@@@@@@@#*=-:.                                                              .:-=*#@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@%#*+=:.                                      .:=+*#%@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+:                            :=#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+                        =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:                    .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-                  :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-                :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.               @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@**@@@@@@@@@@@@@@*            =@@@@@@@@@@@@@@%#@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@*+@@@@@@#    *@@@@@@@@@@@@@            @@@@@@@@@@@@@#    +@@@@@@**@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@=   *@@@-     *@@@@@@@@@@@@@.           @@@@@@@@@@@@@#     :%@@#.  -@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@*         .-#@@@@@@@@@@@@@@@-          :@@@@@@@@@@@@@@@#=.         :@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@=          -@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@+-::-+@@@@@@@@@@@@@@@@@@@@=          :@@@@@@@@@@@@@@@@@@@@+-::-+@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@*        @@@@@@@@@+=+@@@@@@@:          .@@@@@@@+=+@@@@@@@@@        +@@@@@@@@@@@@@@
-@@@@@@@@@@@@@*        *@@@@@@@=    #@@@@@@            @@@@@@%    -@@@@@@@#        +@@@@@@@@@@@@@
-:::=+%@@@@@@=       :@@@@@@@+     :@@@@@@#            *@@@@@@-     +@@@@@@@:       -@@@@@@@*=:::
-       :-:.      .+@@@@@@@+      .@@@@@@@              @@@@@@@:      +@@@@@@@+:      .:-:
-                -@@@@@@@+       :@@@@@@@.               @@@@@@@-       =@@@@@@@=
-                :@@@@#=        +@@@@@@@                  @@@@@@@*        -#@@@@:
-                             :@@@@@@@#                    *@@@@@@@-
-                           .%@@@@@@@-                      -@@@@@@@@:
-                          +@@@@@@@#                          *@@@@@@@*
-                         +@@@@@@@-                            :@@@@@@@#
-                        .@@@@@@#                                *@@@@@@-
-                        *@@@@@@   .=#@@@@%+:        .=#@@@@#+.   %@@@@@#
-                        #@@@@@@*-%@@@@@@@@@@@@#**#@@@@@@@@@@@@%-+@@@@@@%
-                        .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:
-                         -@@@@@@@@@@@@@=    -@@@@@@=    =@@@@@@@@@@@@@=
-                           +@@@@@@@@@@:      :@@@@-       @@@@@@@@@@+
-                              :-=+=-:          ..          .-=+==:
-                     +*-                                                :*+
-                    @@@@@.                                             #@@@@
-                   @@@@@@@:                                           @@@@@@@
-                  @@@@@@@@@                                          %@@@@@@@@
-                 %@@@@@@@@@:                                         @@@@@@@@@@
-                %@@@@@@@@%-                                          -#@@@@@@@@@
-               %@@@@@@@+                                                =@@@@@@@@
-              %@@@@@#:              :=+**+-         .-+**+=:              :#@@@@@@
-             #@@@@+              =@@@@@@@@@@@#=--=*@@@@@@@@@@@+.             +@@@@%
-             @@%-            :+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*-            -%@@
-                        :+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+:
-                     .*@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@#.
-:                    +@@@@@@@@@@@-         =@@@@@@@@+         :@@@@@@@@@@@*                    .
-@                     :%@@@@@@@@@@-          @@@@@@          -@@@@@@@@@@%-                     %
-@-                       +@@@@@@@@@@=         -++-         =@@@@@@@@@@*.                      :@
-@@                         :*@@@@@@@@@#-                -#@@@@@@@@@*:                         @@
-@@#                           .=#@@@@@@@@@*-.      .-*@@@@@@@@@%+.                           +@@
-@@@-                              .=#@@@@@@@@@@@%@@@@@@@@@@#=.                              :@@@
-@@@@.                                  -*@@@@@@@@@@@@@@#-                                   @@@@
-@@@@@                                     =@@@@@@@@@@=                                     %@@@@
-@@@@@.                                      *@@@@@@*                                       @@@@@
-+%%%=                                        :====:                                        =%%%+
+make money, do whatever it takes
 
-             :+-                                                                -+-
-             @@@@#:                                                          .*@@@@
-*            :@@@@@@+:.                                                   :=%@@@@@-            +
-@%             @@@@@@@@@@%                                            #@@@@@@@@@@.            #@
-@@@:            @@@@@@@@@@-                                          :@@@@@@@@@@            .@@@
-@@@@#           .@@@@@@@@@@                                          @@@@@@@@@@:           +@@@@
-@@@@@@+          @@@@@@@@@@@                                        @@@@@@@@@@@          =@@@@@@
-@@@@@@@@%=.    -@@@@@@@@@@@@@-                                    :@@@@@@@@@@@@@=     -#@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%.                                .#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*:                          :+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*+-:.          .:-+*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+make money, do whatever it takes
 
+make money, do whatever it takes
 
-                #########      ############      ###############   ######   ######
-                #########      ############      ###############   ######   ######
-             ######   ######   ######   ######   ######            ######   ######
-             ######   ######   ######   ######   ######            ######   ######
-             ######   ######   ######   ######   ######            ######   ######
-             ######   ######   ######   ######   ######            ######   ######
-             ######   ######   ############      ############         #########
-             ######   ######   ############      ############         #########
-             ######   ######   ######   ######   ######                  ###
-             ######   ######   ######   ######   ######                  ###
-             ######   ######   ######   ######   ######                  ###
-             ######   ######   ######   ######   ######                  ###
-                #########      ############      ###############         ###
-                #########      ############      ###############         ###
-```
+make money, do whatever it takes
 
-## 2. Alien — stencil
+make money, do whatever it takes
 
-```text
-@@@@@@@@@@@@@@@@@@#    #@@@@@= -@@@@-      *@@@@@@@@%      -@@@%   @@@@@@    #@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@    *@@@@@#  .@@@.     -@@@@@@@@@@@@.     .@@#   .@@@@@+    @@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@%     -:.%@*           :%@@@@@@@@@@@@@@#:     .     :@@.       %@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@-         %#          +@@@@@@@@@::@@@@@@@@@+          =@         -@@@@@@@@@@@@@@@
-@@@@@-*%@@@@*:           .          +@@@@@@@@@+  =@@@@@@@@@@          .           .=*%%%%+:@@@@@
-@@@@@*=:                            @@@@@@@@@-    :@@@@@@@@@                             :=@@@@@
-@@@@@@@@@@%#+-.                     -@@@@@@*        -%@@@@*                      :-+*%@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@%*=:          -=-:                          :=*%@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*-                                -*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-                          -%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.                    .*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@#*+==+#@@@@@@@@@@@@@@@@@#                  #@@@@@@@@@@@@@@@@@#+==+*#@@@@@@@@@@@@@@
-@@@@@@@@@@@@+          =@@@@@@@@@@@@@@@@:              :@@@@@@@@@@@@@@@@=          +@@@@@@@@@@@@
-@@@@@@@@@@@      -*      :@@@@@@@@@@@@@@@.            .@@@@@@@@@@@@@@@:     -*       @@@@@@@@@@@
-@@@@@@@@@%       +*        +@@@@@@@@@@@@@@            @@@@@@@@@@@@@@+       -#        %@@@@@@@@@
-@@@@@@@@@     :  **  :.     -@@@@@@@@@@@@@            @@@@@@@@@@@@@-     -  -@  :.     @@@@@@@@@
-@@@@@@@@+      - #=.*-       +@@@@@@@@@@@@            @@@@@@@@@@@@+      :*:.@ -       +@@@@@@@@
-@@@@@@@@:       =@@*.         @@@@@@@@@@@@            @@@@@@@@@@@@         +%@*        :@@@@@@@@
-@@@@@@@@:    .. *@@=-=-:      +@@@@@@@@@@.            .@@@@@@@@@@+     .-==-@@% ..     :@@@@@@@@
-@@@@@@@@*      =+++-.         +@@@@@@@@@=              =@@@@@@@@@+         --*-+       *@@@@@@@@
-@@@@@@@@@.    =+ +- -:        @@@@@@@@@=                =@@@@@@@@@       .-  % -+     .@@@@@@@@@
-@@@@@@@@@@   ..  +-   .      *@@@@@@@@:                  :@@@@@@@@*         .#   :    @@@@@@@@@@
-@@@@@@@@@@@-     :-        .%@@@@@@@#         .--.         #@@@@@@@%.       .=      -@@@@@@@@@@@
-@@@@@@@@@@@@@-           -%@@@@@@@%-        :@@@@@@:        -%@@@@@@@%-           -@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@%*+--=+#@@@@@@@@%=          =@@@@@@@@=          =%@@@@@@@@#+=-=+*%@@@@@@@@@@@@@@@
-@@@@@= :*@@@@@@@@@@@@@@@@@@@*:            .@@@@@@@@@@.            :*@@@@@@@@@@@@@@@@@@@*. :@@@@@
-@@%+      =#@@@@@@@@@@%*=:                #@@@@@@@@@@#                :=*%@@@@@@@@@@%=      -*#%
-       =.     .:::.                      :@@@@@@@@@@@@:                      .:::.     .=
-      +@@+                               @@@@@@@@@@@@@@                               +@@+
-      @@@@%                 :+=         @@@@@@@@@@@@@@@@         =+:                 %@@@@
-      %@@@@@       :=*#%@@@@@#         %@@@@@@@@@@@@@@@@%         #@@@@@%#+=:       @@@@@%
-      =@@@@@@   -@@@@@@@@@@@.        :@@@@@@@@@@@@@@@@@@@@:        .@@@@@@@@@@@-   @@@@@@=
-       @@@@@@% +@@@@@@@@@@=         =@@@@@@@@@@@@@@@@@@@@@@=         =@@@@@@@@@@+ %@@@@@@
-       =@@@@@@*@@@@@@@@@=          #@@@@@@@@@@@@@@@@@@@@@@@@#          =@@@@@@@@@*@@@@@@=
-        %@@@@@@@@@@@#+:           #@@@@@@@@@@@@@@@@@@@@@@@@@@#           :+#@@@@@@@@@@@%
-         @@@@%=:           :+%@: .@@@@@@@@@@@@@@@@@@@@@@@@@@@@. :@%+:           :=%@@@@
-          @@=           -#@@@@@* -@@@@@@@@@@@@@@@@@@@@@@@@@@@@- *@@@@@#-           =@@
-           .       :=*@@@@@==@@-  @@@@@@@@@@@@@@@@@@@@@@@@@@@@  -@@==@@@@@*=:       .
-+               +@@@@@@@@#  -@@   -@@@@@@@@@@@@@@@@@@@@@@@@@@-   @@-  #@@@@@@@@+.              +
-@@            +@@@@@@@@@*  -@@%    .@@@@@@@@@@@@@@@@@@@@@@@@.    %@@-  *@@@@@@@@@+            @@
-@@@=          @@@@@@@@@*  -@@@       :*@@@@@@@@@@@@@@@@@@*:       @@@-  *@@@@@@@@@          =@@@
-@@@@%          #@@@@@@-  =@@@           .-+*#%@@@@%#*+-.           @@@=  -@@@@@@#          %@@@@
-@@@@@@-          :=*=   #@@%                                        %@@#   =*=:          -@@@@@@
-@@@@@@@:              .@@@*                                          *@@@.              .@@@@@@@
-@@@@@@@:              @@@-                                            -@@@              .@@@@@@@
-@@@@@@@+             .@+                                                +@.             +@@@@@@@
-@@@@@@@@+                                                                              +@@@@@@@@
-@@@@@@@@@+      .+@.                   .:--==+++++==--:.                    .@+.      +@@@@@@@@@
-@@@@@@@@@@#   +@@@=            .-*%@@@@@@@@@@@@@@@@@@@@@@@@@%*=:             =@@@+   #@@@@@@@@@@
-@@@@@@@@@@@##@@@@=        .=%@@@@@@#*=-:.             ..:-+*%@@@@@@#-         =@@@@##@@@@@@@@@@@
-@@@@@@@@@@@@@@@@=       =@@@*-                                   .+%@@@#:      =@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@+      =#*:   .:+*#*#@@@@@@@@@@@@@@@@@@@@@@@@#*#*=:.   -#@%:     +@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@*     +#*+*#@#@@@@+%@@- =@@@*-=#@@@@#=-*@@@= -@@%+@@@@*@#**%@%.    *@@@@@@@@@@@@@@
-@@@@@@@@@@@@@%   .*@@@*-@@=  @%   %*    @*     ++     *@    *%   %@  =@@-+@@@%:   %@@@@@@@@@@@@@
-@@@@@@@@@@@@@. -%@@@-..  *   @.   @:    *:            :*    :@   .@   *  ..-@@@%- .@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@+         @    @.    -.            .-    .@    @         +@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@:=  ==   @:   #     ..            ..     #   :@   ==  =:@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@#@@= =@#...#=    =.            .=    =#...#@- =@@#@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@++@@@@@@@@@@@@@@@@@@@@+-:-+@@+-:-+@@@@@@@@@@@@@@@@@@@@++@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@=   .#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#.   =@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@+           .-+#**#@@@@@@@@@@@@@@@@@@@@#**#+-.           +@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@%-%:                                                  :%.*@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@*:-+ +#    *   *.                        .*   #    *+ +.:=@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@:@%:.-#=.=@@   @:       :        :   .   :@   @@=.=@+.:%@-@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@#  %@:  .:=*%%.#@@  #%   @   ..   @   ##  @@#:@@@#-.  :@%  #@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@%   #@:       .-=*+*@@+:%@%-*@@*-%@@:+@@##@**=.      :@#   #@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@-   @@   =%.         ::-:=++==++=---:         .#=   @@    @@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@.   @%  *@@.      =:                :=      .@@*  %@    %@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@    @:  @@@     .@@                @@.     @@@  :@    %@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@+   =*   @@+    .@@:              :@@.    +@@   *=   :@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@-         @@     @@-              -@@     @@          @@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@           @%    @@=              =@@    %@          +@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@#           %    :%                %:    %           @@@@@@@@@@@@@@@@@@@@@@
+make money, do whatever it takes
 
+make money, do whatever it takes
 
-                #########      ############      ###############   ######   ######
-                #########      ############      ###############   ######   ######
-             ######   ######   ######   ######   ######            ######   ######
-             ######   ######   ######   ######   ######            ######   ######
-             ######   ######   ######   ######   ######            ######   ######
-             ######   ######   ######   ######   ######            ######   ######
-             ######   ######   ############      ############         #########
-             ######   ######   ############      ############         #########
-             ######   ######   ######   ######   ######                  ###
-             ######   ######   ######   ######   ######                  ###
-             ######   ######   ######   ######   ######                  ###
-             ######   ######   ######   ######   ######                  ###
-                #########      ############      ###############         ###
-                #########      ############      ###############         ###
-```
+make money, do whatever it takes
 
-## 3. Alien — detailed
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
+
+make money, do whatever it takes
 
 ```text
                                     :-==-========++++++++++=.
